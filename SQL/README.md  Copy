@@ -1,0 +1,13 @@
+# SQL Practice
+
+My SQL and PostgreSQL learning notes.
+
+## Topics
+- SELECT and WHERE
+- ORDER BY and DISTINCT
+- GROUP BY and HAVING
+- JOINs
+- Aggregate Functions
+- Subqueries
+- Window Functions
+- Practice Questions and Solutions
