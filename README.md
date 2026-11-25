@@ -29,3 +29,7 @@ An interactive E-commerce Sales Dashboard built using HTML, CSS, and JavaScript.
 ## Author
 Nitin Singh
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
